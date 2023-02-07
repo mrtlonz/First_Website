@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 9f4817b4-1779-431b-a6fe-7e76479334a5
+      url: 'https://quartopub.com/sites/tlonz/first-website'

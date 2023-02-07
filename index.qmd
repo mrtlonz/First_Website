@@ -1,0 +1,20 @@
+---
+title: "first-website"
+---
+
+```{r libraries}
+library(tidyverse)
+library(ggthemes)
+
+```
+
+```{r car-plot}
+mtcars |> 
+  select(mpg, wt) |> 
+  ggplot(aes(wt, mpg)) +
+  geom_point() +
+  geom_smooth(method = "lm", formula = y ~ x, se = FALSE) +
+  theme_clean()
+
+```
+

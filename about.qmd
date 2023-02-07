@@ -1,0 +1,22 @@
+---
+title: "About Me"
+---
+
+## About Me
+Hi my name is **TLonz** and I'm an Agile Evangelist
+
+## About This Project
+
+This is *my Project* and it is very good...
+
+### Goals
+- line 1
+- line 2
+  + Is this really line 2?
+- Line 3
+
+"This is data science"
+\
+~ Preceptor
+
+[Kane’s Free High School Data Science Bootcamp](https://bootcamp.davidkane.info.)
